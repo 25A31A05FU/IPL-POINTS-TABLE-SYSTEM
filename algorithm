@@ -1,0 +1,23 @@
+🔷 Algorithm
+
+Step-by-step Algorithm:
+
+Start
+Declare variables:
+Team name
+Matches played (M)
+Wins (W), Losses (L)
+Points (P)
+Input number of teams (n)
+Repeat for each team (i = 1 to n):
+Input team name
+Input matches played (M)
+Input wins (W)
+Calculate losses:
+→ L = M − W
+Calculate points:
+→ P = W × 2
+Store all team details
+Sort teams based on points in descending order
+Display points table with ranking
+Stop
